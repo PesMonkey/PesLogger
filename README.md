@@ -9,3 +9,6 @@ How to use:
 5. Use how ever you feel
 
 For icons make sure to convert images to ico format
+
+Original code credit goes to addi00000
+https://github.com/addi00000/empyrean
