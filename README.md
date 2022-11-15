@@ -2,7 +2,7 @@
 dumb reskin of old version of Empyrean
 
 How to use:
-1. Open Build.exe
+1. Open PES_LOGGER.exe
 2. wait for load
 3. enter webhook
 4. enter configs
