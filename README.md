@@ -20,4 +20,8 @@ dumb reskin of old version of Empyrean
 5. use freely
 
 # Screenshots
-<img src=""https://cdn.discordapp.com/attachments/997378722577526834/1041832923093008434/image.png><img src="">
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/997378722577526834/1041832923093008434/image.png">
+    <img src="https://cdn.discordapp.com/attachments/997378722577526834/1041833103586512916/image.png">
+</div>
