@@ -2,10 +2,10 @@
 dumb reskin of old version of Empyrean
 
 # Features
-- [Discord token info](img/em1.png)
-- [Browser stealing](img/em0.png) from 13 browsers (passwords, cookies, history, bookmarks, etc.)
-- [Discord process injection](img/em3.png) 
-- [Detailed system info](img/em2.png)
+- Discord token info
+- Browser stealing from 13 browsers (passwords, cookies, history, bookmarks, etc.)
+- Discord process injection 
+- Detailed system info
 - Anti Debugging
 - Startup persistence
 - Fake error messages
