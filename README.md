@@ -13,7 +13,7 @@
 - Custom icon
 
 # How to use
-(if you dont have python you need to run "install_python.bat")
+
 1. Open PES_LOGGER.exe
 2. wait for load
 3. enter webhook
