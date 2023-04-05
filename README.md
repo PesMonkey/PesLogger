@@ -1,3 +1,6 @@
+# DISCLAIMER! THIS IS ONLY FOR EDUCATIONAL PURPOSES.
+# Also recently the exe has been breaking for some people so from now on just use the .bat
+
 # PEPE logger
 - Le Epic Token Logger
 - Download --> <a href="https://github.com/PesMonkey/PesLogger/releases">HERE</a> <--
